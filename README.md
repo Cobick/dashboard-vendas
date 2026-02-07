@@ -13,8 +13,8 @@ O objetivo é analisar o desempenho de vendas ao longo do tempo.
 - Vendas por região / estado (utilizando gráfico de mapa)
 
 ## 🔍 Insights
-- O estado de Pernambuco lidera as vendas
-- O vendedor que mais realizou vendas foi o Anderson
+- O estado de Pernambuco lidera o faturamento
+- O vendedor líder de faturamento foi o Anderson
 
 ## 🖼️ Preview
 ![Dashboard](dashboard_vendas.png)
