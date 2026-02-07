@@ -17,4 +17,4 @@ O objetivo é analisar o desempenho de vendas ao longo do tempo.
 - O vendedor que mais realizou vendas foi o Anderson
 
 ## 🖼️ Preview
-![Dashboard](dashboard-vendas/dashboard_vendas.png)
+![Dashboard](images/dashboard_vendas.png)
