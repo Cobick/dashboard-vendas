@@ -14,7 +14,7 @@ O objetivo é analisar o desempenho de vendas ao longo do tempo.
 
 ## 🔍 Insights
 - O estado de Pernambuco lidera o faturamento
-- O vendedor líder de faturamento foi o Anderson
+- O vendedor líder de faturamento é o Anderson
 
 ## 🖼️ Preview
 ![Dashboard](dashboard_vendas.png)
